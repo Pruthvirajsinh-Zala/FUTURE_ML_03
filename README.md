@@ -14,23 +14,14 @@ A Pretrained ChatBot that can resolve Customer Queries using available FAQ Data 
 
 ---
 
-## 🧠 What I Did
+## 🧰 Tools Used
 
-1. **Data Preprocessing**
-   - Cleaned and visualized AMZN price trends
-   - Added SMA20 and SMA50 moving averages
-
-2. **Model Implementation**
-   - Created lag features (previous 7 days of prices)
-   - Trained a **Linear Regression** model
-   - Predicted the next 7 days of stock prices
-
-3. **Evaluation**
-   - Metrics used:  
-     - MAE: `44.92`  
-     - RMSE: `47.48`  
-     - MAPE: `2.33%`
-
+- **Python**
+- **Flask**
+- **HTML5 / CSS3 / JavaScript**
+- **Pandas**
+- **Matplotlib**
+- **Jupyter Notebook** 
 
 ---
 
