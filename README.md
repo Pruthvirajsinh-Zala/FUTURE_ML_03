@@ -31,9 +31,33 @@ A Pretrained ChatBot that can resolve Customer Queries using available FAQ Data 
 ![Close](Visualization/AMZN_Close_Price.png)
 
 ---
+## Folder Structure
 
-## 💡 Business Insight
+```
+FUTURE_ML_03/
+│
+├── analysis/
+│   ├── images/
+│   │   ├── customer_satisfaction_distribution.png
+│   │   ├── query_distribution.png
+│   ├── customer_support_tickets.csv
+│   └── visualization.ipynb
+│
+├── data/
+│   └── intents.json
+│
+├── templates/
+│   └── index.html
+│
+├── ui/
+│   ├── cscb.mp4
+│   ├── ui0.png
+│   ├── ui1.png
+│   └── ui2.png
+│
+├── chatbot.py
+├── README.md
+└── requirements.txt
+```
 
-- SMA crossovers help traders identify **entry and exit** points
-- Short-term predictions assist in **portfolio timing**
-- Combined ML + rule-based logic for real-world use
+---
