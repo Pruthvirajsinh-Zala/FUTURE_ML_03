@@ -61,3 +61,67 @@ FUTURE_ML_03/
 ```
 
 ---
+
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/FUTURE_ML_03.git
+   ```
+
+2. Install the dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. ⚠️ Recommended Python version:
+    ```bash
+    This project was developed and tested using Python 3.9.0.
+    Using the same version is recommended for compatibility.
+    ```
+
+4. Run the application:
+   ```bash
+   python chatbot.py
+   ```
+
+5. Open your browser and navigate to:
+   ```
+   http://127.0.0.1:5000/
+   ```
+
+---
+
+## Customization
+
+### Adding New Intents
+Update the `intents.json` file to add new conversation patterns:
+
+```json
+{
+  "tag": "new_intent",
+  "patterns": [
+    "Your new pattern 1",
+    "Your new pattern 2"
+  ],
+  "responses": [
+    "Your new response 1",
+    "Your new response 2"
+  ]
+}
+```
+
+### Modifying the UI
+The frontend interface can be customized by editing the files in the `templates/` directory.
+
+---
+
+## Future Improvements
+- Integration with machine learning models
+- User authentication system
+- Multi-language support
+- Backend CRM integration
+- Voice recognition capabilities
+- Sentiment analysis for customer responses
+
+---
