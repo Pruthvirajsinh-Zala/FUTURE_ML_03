@@ -28,10 +28,10 @@ A Pretrained ChatBot that can resolve Customer Queries using available FAQ Data 
 ## 📸 Visuals
 
 ### Customer Satisfaction Distribution
-![Customer_Satisfaction](Visualization/customer_satisfaction_distribution.png)
+![Customer_Satisfaction](visualization/customer_satisfaction_distribution.png)
 
 ### Query Distribution
-![Query_Distribution](Visualization/query_distribution.png)
+![Query_Distribution](visualization/query_distribution.png)
 
 
 ---
