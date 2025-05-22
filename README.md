@@ -33,7 +33,8 @@ A Pretrained ChatBot that can resolve Customer Queries using available FAQ Data 
 ### Query Distribution
 ![Query_Distribution](visualization/query_distribution.png)
 
-
+### Chatbot Home
+![chatbot-home](visualization/images/chatbot-home.png)
 ---
 ## Folder Structure
 
