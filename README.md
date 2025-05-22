@@ -44,6 +44,9 @@ A Pretrained ChatBot that can resolve Customer Queries using available FAQ Data 
 FUTURE_ML_03/
 │
 ├── visualization/
+|   ├── images/
+|   │   ├── chatbot-home-1.png
+|   |   ├── chatbot-interaction-1.png
 |   ├── customer_satisfaction_distribution.png
 |   ├── query_distribution.png
 │   └── visualization.ipynb 
