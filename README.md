@@ -45,8 +45,8 @@ FUTURE_ML_03/
 │
 ├── visualization/
 |   ├── images/
-|   │   ├── chatbot-home-1.png
-|   |   ├── chatbot-interaction-1.png
+|   │   ├── chatbot-home.png
+|   |   ├── chatbot-interaction.png
 |   ├── customer_satisfaction_distribution.png
 |   ├── query_distribution.png
 │   └── visualization.ipynb 
