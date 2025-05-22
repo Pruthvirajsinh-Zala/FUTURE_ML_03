@@ -36,11 +36,7 @@ A Pretrained ChatBot that can resolve Customer Queries using available FAQ Data 
 ```
 FUTURE_ML_03/
 │
-├── analysis/
-│   ├── images/
-│   │   ├── customer_satisfaction_distribution.png
-│   │   ├── query_distribution.png
-│   ├── customer_support_tickets.csv
+├── visualization/
 │   └── visualization.ipynb
 │
 ├── data/
@@ -48,12 +44,6 @@ FUTURE_ML_03/
 │
 ├── templates/
 │   └── index.html
-│
-├── ui/
-│   ├── cscb.mp4
-│   ├── ui0.png
-│   ├── ui1.png
-│   └── ui2.png
 │
 ├── chatbot.py
 ├── README.md
