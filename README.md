@@ -34,9 +34,9 @@ A Pretrained ChatBot that can resolve Customer Queries using available FAQ Data 
 ![Query_Distribution](visualization/query_distribution.png)
 
 ### Chatbot
-![chatbot-home](visualization/images/chatbot-home.png)
+![chatbot-home](visualization/images/chatbot-home-1.png)
 
-![chatbot-interaction](visualization/images/chatbot-interaction.png)
+![chatbot-interaction](visualization/images/chatbot-interaction-1.png)
 ---
 ## Folder Structure
 
