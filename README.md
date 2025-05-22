@@ -27,8 +27,12 @@ A Pretrained ChatBot that can resolve Customer Queries using available FAQ Data 
 
 ## 📸 Visuals
 
-### Closing Price  
-![Close](Visualization/AMZN_Close_Price.png)
+### Customer Satisfaction Distribution
+![Customer_Satisfaction](Visualization/customer_satisfaction_distribution.png)
+
+### Query Distribution
+![Query_Distribution](Visualization/query_distribution.png)
+
 
 ---
 ## Folder Structure
@@ -37,9 +41,12 @@ A Pretrained ChatBot that can resolve Customer Queries using available FAQ Data 
 FUTURE_ML_03/
 │
 ├── visualization/
-│   └── visualization.ipynb
+|   ├── customer_satisfaction_distribution.png
+|   ├── query_distribution.png
+│   └── visualization.ipynb 
 │
 ├── data/
+|   ├── customer_support_tickets.csv
 │   └── intents.json
 │
 ├── templates/
