@@ -101,17 +101,5 @@ Update the `intents.json` file to add new conversation patterns:
 }
 ```
 
-### Modifying the UI
-The frontend interface can be customized by editing the files in the `templates/` directory.
-
 ---
 
-## Future Improvements
-- Integration with machine learning models
-- User authentication system
-- Multi-language support
-- Backend CRM integration
-- Voice recognition capabilities
-- Sentiment analysis for customer responses
-
----
