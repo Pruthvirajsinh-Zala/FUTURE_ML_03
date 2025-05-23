@@ -95,24 +95,3 @@ FUTURE_ML_03/
 
 ---
 
-## Customization
-
-### Adding New Intents
-Update the `intents.json` file to add new conversation patterns:
-
-```json
-{
-  "tag": "new_intent",
-  "patterns": [
-    "Your new pattern 1",
-    "Your new pattern 2"
-  ],
-  "responses": [
-    "Your new response 1",
-    "Your new response 2"
-  ]
-}
-```
-
----
-
